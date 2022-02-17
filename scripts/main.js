@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['VALENTINE DAY ❤️', 'TANGGAL',   '14-02-2022,', 'ADA BANYAK', 'COWOK & CEWEK', 'YANG BERUNTUNG', 'DI UCAPKAN', 'HARI VALENTINE', 'DAN DI BERIKAN',  'KADO / COKLAT', 'BERUNTUNG', 'BANGET YAHH :)', 'SEMANGAT BUAT KALIAN', 'YG MASIH SENDIRI', ':)', '❤️❤️❤️', ':)']
+  let texts = ['Anis lope u pul']
 
   let canvas,
     ctx,
