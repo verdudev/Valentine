@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['Anis lope u pul']
+  let texts = ['Anis lope u pul',':)']
 
   let canvas,
     ctx,
